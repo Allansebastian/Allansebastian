@@ -1,4 +1,4 @@
-- # Hi there, 👋I’m Allan Sebastian
+-   #  Hi there, 👋I’m Allan Sebastian
 -          Data Analyst
 - **🌱 I’m currently learning Python,Power BI,Excel,Sql**
 - **📫 How to reach me - @allanseb147@gmail.com**
